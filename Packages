@@ -2,7 +2,6 @@ Package: com.concep86.EdwardsFirst_1.0
 Version: 2.0.0-1
 Section: Tweaks
 Maintainer: Concep <reposithree@gmail.com>
-Depends: firmware (<7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.concep86.EdwardsFirst_1.0.deb
 Size: 854
