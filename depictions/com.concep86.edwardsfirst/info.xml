@@ -1,7 +1,7 @@
 <package>
 	<id>com.concep86.edwardsfirst</id>
 	<name>Edward First Package</name>
-	<version>2.0</version>
+	<version>2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -31,8 +31,8 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>Added Snapchat</change>
+		<change>2.01 release</change>
+		<change>Added Cashapp, Tinder</change>
 	</changelog>
 	<links>
 		<link>
