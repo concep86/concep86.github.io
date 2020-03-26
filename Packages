@@ -26,17 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: EdwardsFirst
-Version: 1.0.0-1
+Package: com.concep86.EdwardsFirst
+Version: 1.0.
 Section: Tweaks
 Maintainer: Concep86 <concep86@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/EdwardsFirst.deb
+Filename: ./debs/com.concep86.EdwardsFirst_1.0.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: My First
-Name: EdwardsFirst
+Name: Edwards First package
 Author: EdwardsFirst <concep86@gmail.com>
-Depiction: https://https://concep86.github.io/depictions/?p=EdwardsFirst
+Depiction: https://https://concep86.github.io/depictions/?p=com.concep86.edwardsfirst
 
