@@ -1,7 +1,7 @@
 <package>
 	<id>com.concep86.edwardsfirst</id>
 	<name>Edward First Package</name>
-	<version>1.0</version>
+	<version>2.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -10,7 +10,7 @@
 	<dependencies>
 		<package></package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is a sample new package. Firmware should be greater than 10.0</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
