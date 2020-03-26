@@ -1,13 +1,12 @@
-Package: com.concep86.EdwardsFirst_1.0
+Package: com.concep86.EdwardsFirst_2.0
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Concep <reposithree@gmail.com>
+Maintainer: Concep86 <reposithree@gmail.com>
 Architecture: iphoneos-arm
-Filename: ./debs/com.concep86.EdwardsFirst_1.0.deb
+Filename: ./debs/com.concep86.EdwardsFirst_2.0.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
+Description: My First theme
 Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
+Author: cocnep86 <reposithree@gmail.com>
 Depiction: https://https://concep86.github.io/depictions/?p=com.concep86.edwardsfirst
-
