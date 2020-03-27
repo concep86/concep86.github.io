@@ -1,5 +1,5 @@
 body {
-    background-color: #3e3e44;
+    background-color: #929292;
     color: #ffffff;
 }
 
@@ -139,4 +139,15 @@ a:active {
     background-color: #343434;
     border: 1px solid #343434;
     color: #ffffff;
+}
+
+
+
+@media (max-width: 767px) body {
+    background: #929292 !important;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
 }
